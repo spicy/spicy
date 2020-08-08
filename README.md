@@ -3,11 +3,8 @@
 ## I'm a second year CompSci student
 - I’m currently working on a passion project that helps competitive CSGO/Source players improve their movement
 - I’m actively working with C++ C# PHP and JS
-
-### Info
 [<img align="left" alt="Spicy's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
-
 
 ### Latest Videos
 <!-- YOUTUBE:START -->
@@ -18,5 +15,4 @@
 
 <!-- YOUTUBE:END -->
 ---
-
 [youtube]: https://www.youtube.com/channel/UC-22kxkKtKnBZugyPFwl9bw
