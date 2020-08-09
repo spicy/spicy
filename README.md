@@ -1,11 +1,11 @@
-### Hi! Im Daniel [spicy]
+### Hi! Im Daniel
 
 ## I'm a second year CompSci student
 - I’m currently working on a passion project that helps competitive CSGO/Source players improve their movement
 - I’m actively working with C++ C# PHP and JS
 - I own a CSGO network/community, and develop SourcePawn Plugins like serversided anticheats.
 - I'm creating a client sided anticheat that community servers can require to connect
-[<img align="left" alt="Spicy's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Spicy's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
 <br />
 ### Latest Videos
 <!-- YOUTUBE:START -->
