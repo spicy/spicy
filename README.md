@@ -7,6 +7,7 @@
 - I'm creating a client sided anticheat that community servers can require to connect.
 ### Latest Videos
 <!-- YOUTUBE:START -->
+- [Strafe Analyzer - RecordBot / PlayBot](https://www.youtube.com/watch?v=nJZk4zuiHkY)
 - [CSGO Strafe Analyzer release version 0.9 ](https://www.youtube.com/watch?v=XSQNXGm-n3I)
 - [Strafe Analyzer - TAS Jump Prediction / Sync trainer](https://www.youtube.com/watch?v=iY2L3Ftp3VI)
 - [StrafeAnalyzer - Strafe Range](https://www.youtube.com/watch?v=nLl8XsQlLqI)
