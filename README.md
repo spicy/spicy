@@ -1,12 +1,10 @@
 ### Hi! Im Daniel
 
 ## I'm a second year CompSci student
-- I’m currently working on a passion project that helps competitive CSGO/Source players improve their movement
+- I’m currently working on a passion project that promotes legit play in competitive movement gamemodes in CSGO/CSS by analyzing their movement and showing them how to improve.
 - I’m actively working with C++ C# PHP and JS
-- I own a CSGO network/community, and develop SourcePawn Plugins like serversided anticheats.
-- I'm creating a client sided anticheat that community servers can require to connect
-[<img align="left" alt="Spicy's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />]
-<br />
+- I own a CSGO network/community and develop SourcePawn Plugins.
+- I'm creating a client sided anticheat that community servers can require to connect.
 ### Latest Videos
 <!-- YOUTUBE:START -->
 - [CSGO Strafe Analyzer release version 0.9 ](https://www.youtube.com/watch?v=XSQNXGm-n3I)
