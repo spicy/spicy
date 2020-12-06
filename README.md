@@ -1,8 +1,6 @@
-### Hi! Im Daniel
-
-## I'm a second year CompSci student
+## Stuff
 - I’m currently working on a passion project that promotes legit play in competitive movement gamemodes in CSGO/CSS by analyzing their movement and showing them how to improve.
-- I’m actively working with C++ C# PHP and JS
+- I’m actively working with C++ C# PHP
 - I own a CSGO network/community and develop SourcePawn Plugins.
 - I'm creating a client sided anticheat that community servers can require to connect.
 ### Latest Videos
