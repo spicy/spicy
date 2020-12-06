@@ -1,3 +1,5 @@
+[![PayPal](https://img.shields.io/badge/donate-PayPal-104098.svg?style=plastic&logo=PayPal)](https://paypal.me/spicycurrey)
+[![Patreon](https://img.shields.io/badge/support%20me-Patreon-104098.svg?style=plastic&logo=Patreon)](https://www.patreon.com/spicycurrey)
 ## Stuff
 - I’m currently working on a passion project that promotes legit play in competitive movement gamemodes in CSGO/CSS by analyzing their movement and showing them how to improve.
 - I’m actively working with C++ C# PHP
