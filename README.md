@@ -19,7 +19,7 @@ class Attributes(Spicy):
 			'intermediate': ['powershell', 'python', 'c', 'java', 'js'],
 			'learning': ['asm', 'go']
 		}
-		specialities  = ['fullstack', 'reverse engineering']
+		specialities  = ['unity', 'fullstack', 'reverse engineering']
 		environnement = ['vs ide', 'vscode', 'pycharm']
 		
 		return specialities, environment
