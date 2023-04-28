@@ -10,7 +10,7 @@ class Attributes(Spicy):
 	    discord  = "spicy#7453"
 	    proton   = "spicyc@protonmail.com"
 	    
-	    return discord, telegram, proton
+	    return discord, proton
       
 	@staticmethod
 	def coding() -> tuple:
@@ -22,7 +22,7 @@ class Attributes(Spicy):
 		specialities  = ['fullstack', 'reverse engineering']
 		environnement = ['vs ide', 'vscode', 'pycharm']
 		
-		return specialities, environnement
+		return specialities, environment
 ```
 <h2 align="center">Skills </h2>
 
