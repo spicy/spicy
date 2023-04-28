@@ -3,17 +3,12 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=spicy&style=for-the-badge />
 </p> -->
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
-</p>
-
 ```python
 class Attributes(Spicy):
 	@staticmethod
 	def contact() -> tuple:
 	    discord  = "spicy#7453"
-	    telegram = "t.me/xtekky"
-	    proton   = "xtekky@protonmail.com"
+	    proton   = "spicyc@protonmail.com"
 	    
 	    return discord, telegram, proton
       
@@ -24,7 +19,7 @@ class Attributes(Spicy):
 			'intermediate': ['python', 'c', 'java', 'js'],
 			'learning': ['asm', 'go']
 		}
-		specialities  = ['fullstack', '', 'reverse engineering']
+		specialities  = ['fullstack', 'reverse engineering']
 		environnement = ['vs ide', 'vscode', 'pycharm']
 		
 		return specialities, environnement
