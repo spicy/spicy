@@ -24,18 +24,20 @@ class Attributes(Spicy):
 		
 		return specialities, environment
 ```
-<h2 align="center">Skills </h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,css,html,vscode,androidstudio,c" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,css,html,vscode,c" />
   </a>
 </p>
+
 
 ## Projects
 - **Detection** *(Lead Developer - C#, Unity)* - An immersive virtual reality first person shooter where you need to scan your environment.
 - **Strafe Analyzer** *(Sole Developer -C++, C#, PHP)* - Real-time statistical overlay for improving video game speedrunning movement.
 - **FirstBulletAccuracy** *(Sole Developer - C++, ImGUI)* - Window overlay for real time FPS gameplay monitoring and tips.
+
 
 
 <p href="https://discord.gg/onlp" align="center">
