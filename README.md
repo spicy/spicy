@@ -8,9 +8,9 @@ class Attributes(Spicy):
 	@staticmethod
 	def contact() -> tuple:
 	    discord  = "spicy#7453"
-	    proton   = "spicyc@protonmail.com"
+	    gmail   = "danieltcurrey@gmail.com"
 	    
-	    return discord, proton
+	    return discord, gmail
       
 	@staticmethod
 	def coding() -> tuple:
