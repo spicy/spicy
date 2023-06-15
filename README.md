@@ -37,10 +37,12 @@ class Attributes(Spicy):
   </a>
 </p>
 
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=spicy&theme=tokyonight&show_icons=true">
+<p align="center">
+  <a href="https://github.com/spicy">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spicy&show_icons=true&theme=tokyonight&count_private=true" alt="Spicy's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicy&theme=tokyonight&layout=compact" 
+      alt="Spicy's GitHub Top Languages" />
+  </a>
 </p>
-
 
 [youtube]: https://www.youtube.com/channel/UC-22kxkKtKnBZugyPFwl9bw
