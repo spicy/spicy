@@ -16,7 +16,7 @@ class Attributes(Spicy):
 	def coding() -> tuple:
 		langs = {
 			'expert':   ['c#', 'c++'],
-			'intermediate': ['powershell', 'python', 'c', 'java', 'js'],
+			'intermediate': ['powershell', 'python', 'c', 'typescript', 'java', 'js'],
 			'learning': ['asm', 'go']
 		}
 		specialities  = ['unity', 'fullstack', 'reverse engineering']
