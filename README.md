@@ -4,25 +4,46 @@
 </p> -->
 
 ```python
-class Attributes(Spicy):
-	@staticmethod
-	def contact() -> tuple:
-	    discord  = "spicy#7453"
-	    gmail   = "danieltcurrey@gmail.com"
-	    
-	    return discord, gmail
-      
-	@staticmethod
-	def coding() -> tuple:
-		langs = {
-			'expert':   ['c#', 'c++'],
-			'intermediate': ['powershell', 'python', 'c', 'typescript', 'java', 'js'],
-			'learning': ['asm', 'go']
-		}
-		specialities  = ['unity', 'fullstack', 'azure devops', 'CI/CD']
-		environnement = ['vs ide', 'vscode', 'pycharm']
-		
-		return specialities, environment
+from typing import NamedTuple, List, Dict
+
+class ContactInfo(NamedTuple):
+    email: str
+    discord: str
+
+class CodingInfo(NamedTuple):
+    specialities: List[str]
+    environments: List[str]
+    databases: List[str]
+    orms: List[str]
+    languages: Dict[str, List[str]]
+
+class Attributes:
+    
+    @staticmethod
+    def get_contact_info() -> ContactInfo:
+        """
+        Returns contact details.
+        """
+        email = "danieltcurrey@gmail.com"
+        discord = "spicy#7453"
+        return ContactInfo(email, discord)
+
+    @staticmethod
+    def get_coding_info() -> CodingInfo:
+        """
+        Returns coding details including languages, tools, and specialities.
+        """
+        languages = {
+            'expert': ['c#', 'c++', 'python', 'yaml'],
+            'intermediate': ['powershell', 'c', 'typescript', 'java', 'js'],
+            'learning': ['asm', 'go']
+        }
+        specialities = ['unity', 'azure devops', 'fullstack', 'CI/CD']
+        environments = ['vs ide', 'vscode', 'pycharm']
+        databases = ['MS SQL Server', 'MySQL', 'SQLite', 'Oracle']
+        orms = ['EF']
+
+        return CodingInfo(specialities, environments, databases, orms, languages)
 ```
 ## Projects
 - **Detection** *(Lead Developer - C#, Unity)* - An immersive virtual reality first person shooter where you need to scan your environment.
