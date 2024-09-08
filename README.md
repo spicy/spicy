@@ -3,67 +3,41 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=spicy&style=for-the-badge />
 </p> -->
 
-```python
-from typing import NamedTuple, List, Dict
+# Hi, I'm Spicy! 👋
+I'm a Software Engineer with experience in Devops, QA, and Game Development.
 
-class ContactInfo(NamedTuple):
-    email: str
-    discord: str
+## Featured Projects
+- **[Detection](https://github.com/spicy/detection)** - Lead Developer | **Unity, C#**
+  - A virtual reality first-person shooter where players must scan and detect their environment.
+- **[Strafe Analyzer](https://github.com/spicy/strafe-analyzer)** - Sole Developer | **C++, C#, PHP**
+  - A real-time statistical overlay for optimizing speedrunning movement.
+- **[FirstBulletAccuracy](https://github.com/spicy/first-bullet-accuracy)** - Sole Developer | **C++, ImGUI**
+  - Window overlay for FPS gameplay monitoring and tips.
+- **[Source Engine Movement Visualizer](https://github.com/spicy/movement-visualizer)** - Sole Developer | **C++**
+  - An interactive explanatory and visualization tool demonstrating the mathematics behind character movement in Source engine-based video games.
 
-class CodingInfo(NamedTuple):
-    specialities: List[str]
-    environments: List[str]
-    databases: List[str]
-    orms: List[str]
-    languages: Dict[str, List[str]]
+## Skills
+### Languages & Tools
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-class Attributes:
-    
-    @staticmethod
-    def get_contact_info() -> ContactInfo:
-        """
-        Returns contact details.
-        """
-        email = "danieltcurrey@gmail.com"
-        discord = "spicy#7453"
-        return ContactInfo(email, discord)
+### Environments
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-    @staticmethod
-    def get_coding_info() -> CodingInfo:
-        """
-        Returns coding details including languages, tools, and specialities.
-        """
-        languages = {
-            'expert': ['c#', 'c++', 'python', 'yaml'],
-            'intermediate': ['powershell', 'c', 'typescript', 'java', 'js'],
-            'learning': ['asm', 'go']
-        }
-        specialities = ['unity', 'azure devops', 'fullstack', 'CI/CD']
-        environments = ['vs ide', 'vscode', 'pycharm']
-        databases = ['MS SQL Server', 'MySQL', 'SQLite', 'Oracle']
-        orms = ['EF']
-
-        return CodingInfo(specialities, environments, databases, orms, languages)
-```
-## Projects
-- **Detection** *(Lead Developer - C#, Unity)* - An immersive virtual reality first person shooter where you need to scan your environment.
-- **Strafe Analyzer** *(Sole Developer -C++, C#, PHP)* - Real-time statistical overlay for improving video game speedrunning movement.
-- **FirstBulletAccuracy** *(Sole Developer - C++, ImGUI)* - Window overlay for real time FPS gameplay monitoring and tips.
-
-<h2 align="center">Skills</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,python,js,css,html,vscode,c" />
-  </a>
-</p>
-
+## My GitHub Stats
 <p align="center">
   <a href="https://github.com/spicy">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spicy&show_icons=true&theme=tokyonight&count_private=true" alt="Spicy's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicy&theme=tokyonight&layout=compact" 
-      alt="Spicy's GitHub Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spicy&show_icons=true&theme=radical&count_private=true" alt="Spicy's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicy&theme=radical&layout=compact" alt="Spicy's Top Languages" />
   </a>
 </p>
 
-[youtube]: https://www.youtube.com/channel/UC-22kxkKtKnBZugyPFwl9bw
+## Contact Me
+- 📧 Email: [danieltcurrey@gmail.com](mailto:danieltcurrey@gmail.com)
+- 💬 Discord: spicy#7453
+
+### Let's Connect!
+I'm always open to new opportunities and collaborations. Feel free to explore my [projects](#projects)!
