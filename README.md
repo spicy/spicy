@@ -3,29 +3,44 @@
     <img alt="" src=https://komarev.com/ghpvc/?username=spicy&style=for-the-badge />
 </p> -->
 
-# Hi, I'm Spicy! 👋
-I'm a Software Engineer with experience in Devops, QA, and Game Development.
+# Hi, I'm Daniel Currey! 👋
+
+I'm a Software Engineer with experience in DevOps, QA, and Game Development.
+
+## About Me
+- 🎓 Completed BS in Computer Science at Cal State Fullerton
+- 💼 Former Software Release/Build Engineer at Veros Real Estate Solutions
+- 🌍 Based in CA
 
 ## Featured Projects
-- **[Detection](https://github.com/spicy/detection)** - Lead Developer | **Unity, C#**
-  - A virtual reality first-person shooter where players must scan and detect their environment.
-- **[Strafe Analyzer](https://github.com/spicy/strafe-analyzer)** - Sole Developer | **C++, C#, PHP**
-  - A real-time statistical overlay for optimizing speedrunning movement.
-- **[FirstBulletAccuracy](https://github.com/spicy/first-bullet-accuracy)** - Sole Developer | **C++, ImGUI**
-  - Window overlay for FPS gameplay monitoring and tips.
-- **[Source Engine Movement Visualizer](https://github.com/spicy/movement-visualizer)** - Sole Developer | **C++**
-  - An interactive explanatory and visualization tool demonstrating the mathematics behind character movement in Source engine-based video games.
 
-## Skills
-### Languages & Tools
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+### Current Projects
+- **[VRecover](https://github.com/spicy/vrecover)** - A VR exposure therapy application that is controllable in real time
+  - Led team of 5 developers
+  - Built with Unity, C#, TypeScript, Next.js
+  
+- **[Detection VR](https://github.com/spicy/detection)** - A VR First Person Shooter with Lidar scanning mechanics
+  - Led team of 6 developers
+  - Built with Unity, C#, TypeScript, Next.js
+  - [Watch Demo](https://www.youtube.com/playlist?list=PLbYWtxh7gSJB1XHtJXGIOrt6Q_EEiE2OG)
+
+### AI/ML Projects
+- **[LLM Debate Argument Evaluator](https://github.com/spicy/llm-debate-argument-evaluator)** - A sophisticated debate tree generation and evaluation tool using LLMs
+- **[ML Hypertension Predictor](https://github.com/spicy/ml-hypertension-prediction)** - A machine learning model for predicting hypertension based on lifestyle factors
+- **[KNN Happiness Classifier](https://github.com/spicy/knn-happiness-classifier-comparison)** - Comparative analysis of KNN algorithms
+
+### Tools & Applications
+- **[Strafe Analyzer](https://github.com/spicy/strafe-analyzer)** - Real-time speedrunning statistics overlay
+  - Built with C++, C#, PHP
+  - [Watch Demo](https://www.youtube.com/playlist?list=PLbYWtxh7gSJAbNNENx13cJm07zYwdDeqZ)
+
+## Technical Skills
+![C#](https://img.shields.io/badge/C%23-5c0029?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-C44536?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-9dd1f1?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-387780?style=for-the-badge&logo=typescript&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-031927?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-### Environments
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## My GitHub Stats
 <p align="center">
@@ -34,10 +49,6 @@ I'm a Software Engineer with experience in Devops, QA, and Game Development.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spicy&theme=radical&layout=compact" alt="Spicy's Top Languages" />
   </a>
 </p>
-
-## Contact Me
-- 📧 Email: [danieltcurrey@gmail.com](mailto:danieltcurrey@gmail.com)
-- 💬 Discord: spicy#7453
 
 ### Let's Connect!
 I'm always open to new opportunities and collaborations. Feel free to explore my [projects](#projects)!
